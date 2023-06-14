@@ -2,8 +2,8 @@ package goIT.zaikin.homework;
 
 public class Circle extends Shape{
 
-    public Circle(String name) {
-        super(name);
+    public Circle() {
+        super("Circle");
     }
 
     @Override
