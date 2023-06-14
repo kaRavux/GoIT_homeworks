@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         Printer printer = new Printer();
 
-        Shape c1 = new Circle();
+        Shape c1 = new Circle(5);
         printer.printShapeInfo(c1);
 
         Shape c2 = new Cube(5);

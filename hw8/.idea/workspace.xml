@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="60febf1b-6e9d-4cec-b172-bc8805a4ac09" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/goIT/zaikin/homework/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/goIT/zaikin/homework/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/goIT/zaikin/homework/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/goIT/zaikin/homework/Square.java" afterDir="false" />
-    </list>
+    <list default="true" id="60febf1b-6e9d-4cec-b172-bc8805a4ac09" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1686754517144</updated>
-      <workItem from="1686754518372" duration="4292000" />
+      <workItem from="1686754518372" duration="4789000" />
     </task>
     <servers />
   </component>
@@ -75,7 +71,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
