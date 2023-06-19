@@ -1,0 +1,9 @@
+
+n
+java:S2677"LUse or store the value returned from "readLine" instead of throwing it away.(ªκ°ÿÿÿÿÿ8±εδ°1
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(©ώκάϊÿÿÿÿ8³εδ°1
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(©ώκάϊÿÿÿÿ8µεδ°1
+E
+java:S10681"(Remove this unused "name" private field.(Λ¥Ό8¶εδ°1
+I
+java:S10682"'Remove this unused "age" private field.(Ζ†΄¦ώÿÿÿÿ8¶εδ°1
